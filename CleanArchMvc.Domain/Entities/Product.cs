@@ -40,7 +40,7 @@ namespace CleanArchMvc.Domain.Entities
             decimal price, int stock, string image, int categoryId)
         {
             ValidateDomain(name, description, price, stock, image);
-            CategoryId = categoryId
+            CategoryId = categoryId;
         }
 
 

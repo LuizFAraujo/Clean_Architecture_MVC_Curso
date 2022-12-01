@@ -17,4 +17,4 @@ namespace CleanArchMvc.Domain.Interfaces
         Task<Category> Remove(Category category);
     }
 }
-}
+
