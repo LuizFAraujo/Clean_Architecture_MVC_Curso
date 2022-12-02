@@ -17,3 +17,6 @@ D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\Cle
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\refint\CleanArchMvc.Infra.IoC.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.runtimeconfig.json
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.runtimeconfig.dev.json
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.genruntimeconfig.cache
