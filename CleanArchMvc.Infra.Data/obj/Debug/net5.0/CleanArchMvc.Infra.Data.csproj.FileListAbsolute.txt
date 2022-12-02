@@ -13,3 +13,6 @@ D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.Infra.Data\obj\Debug\net5.0\Cl
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.Infra.Data\obj\Debug\net5.0\refint\CleanArchMvc.Infra.Data.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.Infra.Data\obj\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.json
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.Infra.Data\bin\Debug\net5.0\CleanArchMvc.Infra.Data.runtimeconfig.dev.json
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache
