@@ -400,3 +400,4 @@ D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\AutoMap
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
