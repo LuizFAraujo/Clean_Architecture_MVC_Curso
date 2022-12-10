@@ -411,3 +411,6 @@ D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microso
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
