@@ -22,8 +22,6 @@ D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Mi
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
-D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -108,8 +106,6 @@ D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Mi
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
-D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
-D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
@@ -410,3 +406,8 @@ D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\V
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
