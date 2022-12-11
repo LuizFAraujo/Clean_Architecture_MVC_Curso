@@ -54,7 +54,6 @@ D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.API\bin\Debug\net5.0\Microsoft
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.API\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -80,3 +79,4 @@ D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.API\bin\Debug\net5.0\CleanArch
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.API\bin\Debug\net5.0\CleanArchMvc.Application.pdb
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.API\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.API\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
