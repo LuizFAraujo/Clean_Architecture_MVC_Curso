@@ -5677,11 +5677,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original)\\CleanArchMvcDomain.Tests\\CleanArchMvcDomain.Tests.csproj",
+      "projectUniqueName": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original) - clone\\CleanArchMvcDomain.Tests\\CleanArchMvcDomain.Tests.csproj",
       "projectName": "CleanArchMvcDomain.Tests",
-      "projectPath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original)\\CleanArchMvcDomain.Tests\\CleanArchMvcDomain.Tests.csproj",
+      "projectPath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original) - clone\\CleanArchMvcDomain.Tests\\CleanArchMvcDomain.Tests.csproj",
       "packagesPath": "C:\\Users\\Luiz\\.nuget\\packages\\",
-      "outputPath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original)\\CleanArchMvcDomain.Tests\\obj\\",
+      "outputPath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original) - clone\\CleanArchMvcDomain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5698,8 +5698,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original)\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-              "projectPath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original)\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+            "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original) - clone\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+              "projectPath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original) - clone\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
             }
           }
         }

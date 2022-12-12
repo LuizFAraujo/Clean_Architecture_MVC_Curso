@@ -22,3 +22,15 @@ D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original)\CleanArchMvc.Domain\obj\Debu
 D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original)\CleanArchMvc.Domain\obj\Debug\net6.0\refint\CleanArchMvc.Domain.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original)\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.pdb
 D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original)\CleanArchMvc.Domain\obj\Debug\net6.0\ref\CleanArchMvc.Domain.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original) - clone\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.deps.json
+D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original) - clone\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original) - clone\CleanArchMvc.Domain\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
+D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original) - clone\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.csproj.AssemblyReference.cache
+D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original) - clone\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original) - clone\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original) - clone\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.AssemblyInfo.cs
+D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original) - clone\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original) - clone\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original) - clone\CleanArchMvc.Domain\obj\Debug\net6.0\refint\CleanArchMvc.Domain.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original) - clone\CleanArchMvc.Domain\obj\Debug\net6.0\CleanArchMvc.Domain.pdb
+D:\_WEB\MACORATTI\CleanArchMvc_Curso (meu original) - clone\CleanArchMvc.Domain\obj\Debug\net6.0\ref\CleanArchMvc.Domain.dll

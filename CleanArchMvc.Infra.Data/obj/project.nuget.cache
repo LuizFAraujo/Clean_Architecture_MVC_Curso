@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y7h6p63bryHhuy5IckhOkVQ/UelB6YBQYc0djxwVeUgZUmxEPOYwjFXTJg2NYGskRMmLcU13ei3ZFJJ4j70m0Q==",
+  "dgSpecHash": "/8MDwVt+qDTtjM2atfRQE88hFdQc0dEQy4BG4n/i4hl7iPgiZezWpzDhJkRDdWAfyS4oMXa8jMjYm3AghfA7ng==",
   "success": true,
-  "projectFilePath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original)\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
+  "projectFilePath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original) - clone\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luiz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Luiz\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
