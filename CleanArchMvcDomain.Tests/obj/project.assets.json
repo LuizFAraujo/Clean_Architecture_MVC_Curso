@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    "net6.0": {
       "coverlet.collector/3.2.0": {
         "type": "package",
         "build": {
@@ -14,12 +14,12 @@
           "System.Configuration.ConfigurationManager": "4.4.0"
         },
         "compile": {
-          "lib/netcoreapp3.0/FluentAssertions.dll": {
+          "lib/net6.0/FluentAssertions.dll": {
             "related": ".pdb;.xml"
           }
         },
         "runtime": {
-          "lib/netcoreapp3.0/FluentAssertions.dll": {
+          "lib/net6.0/FluentAssertions.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -1762,7 +1762,7 @@
       },
       "CleanArchMvc.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/CleanArchMvc.Domain.dll": {}
         },
@@ -5662,7 +5662,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    "net6.0": [
       "CleanArchMvc.Domain >= 1.0.0",
       "FluentAssertions >= 6.8.0",
       "Microsoft.NET.Test.Sdk >= 17.4.0",
@@ -5677,29 +5677,29 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso\\CleanArchMvcDomain.Tests\\CleanArchMvcDomain.Tests.csproj",
+      "projectUniqueName": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original)\\CleanArchMvcDomain.Tests\\CleanArchMvcDomain.Tests.csproj",
       "projectName": "CleanArchMvcDomain.Tests",
-      "projectPath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso\\CleanArchMvcDomain.Tests\\CleanArchMvcDomain.Tests.csproj",
+      "projectPath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original)\\CleanArchMvcDomain.Tests\\CleanArchMvcDomain.Tests.csproj",
       "packagesPath": "C:\\Users\\Luiz\\.nuget\\packages\\",
-      "outputPath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso\\CleanArchMvcDomain.Tests\\obj\\",
+      "outputPath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original)\\CleanArchMvcDomain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-              "projectPath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+            "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original)\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+              "projectPath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original)\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
             }
           }
         }
@@ -5711,8 +5711,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "FluentAssertions": {
             "target": "Package",

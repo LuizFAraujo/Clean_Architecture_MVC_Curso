@@ -18,32 +18,13 @@ namespace CleanArchMvc.API.Controllers
     {
         private readonly IAuthenticate _authentication;
         private readonly IConfiguration _configuration;
-        private double TokenMinutesExpire = 10;
+        private readonly double TokenMinutesExpire = 10;
 
-        public TokenController(IAuthenticate authenticate, IConfiguration configuration)
+        public TokenController(IAuthenticate authentication, IConfiguration configuration)
         {
-            _authentication = authenticate;
+            _authentication = authentication ??
+                throw new ArgumentNullException(nameof(authentication));
             _configuration = configuration;
-        }
-
-
-
-        [AllowAnonymous]
-        [HttpPost("LoginUser")]
-        public async Task<ActionResult<UserToken>> Login([FromBody] LoginModel userInfo)
-        {
-            var result = await _authentication.Authenticate(userInfo.Email, userInfo.Password);
-
-            if (result)
-            {
-                return GenerateToken(userInfo);
-                //return Ok($"User {userInfo.Email} login successfully");
-            }
-            else
-            {
-                ModelState.AddModelError(string.Empty, "Invalid Login attempt.");
-                return BadRequest(ModelState);
-            }
         }
 
 
@@ -66,6 +47,23 @@ namespace CleanArchMvc.API.Controllers
             }
         }
 
+        [AllowAnonymous]
+        [HttpPost("LoginUser")]
+        public async Task<ActionResult<UserToken>> Login([FromBody] LoginModel userInfo)
+        {
+            var result = await _authentication.Authenticate(userInfo.Email, userInfo.Password);
+
+            if (result)
+            {
+                return GenerateToken(userInfo);
+                //return Ok($"User {userInfo.Email} login successfully");
+            }
+            else
+            {
+                ModelState.AddModelError(string.Empty, "Invalid Login attempt.");
+                return BadRequest(ModelState);
+            }
+        }
 
         private UserToken GenerateToken(LoginModel userInfo)
         {
@@ -73,7 +71,7 @@ namespace CleanArchMvc.API.Controllers
             var claims = new[]
             {
                 new Claim("email", userInfo.Email),
-                new Claim("meuvalor", "o que você quiser"),
+                new Claim("meuvalor", "o que voce quiser"),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
             };
 
@@ -89,11 +87,11 @@ namespace CleanArchMvc.API.Controllers
 
             //gerar o token
             JwtSecurityToken token = new JwtSecurityToken(
-                issuer: _configuration["Jwt:Issuer"], //emissor
-                audience: _configuration["Jwt:Audience"], //audiencia
-                claims: claims, //claims
-                expires: expiration, //data de expiracao
-                signingCredentials: credentials //assinatura digital
+                issuer: _configuration["Jwt:Issuer"], // emissor
+                audience: _configuration["Jwt:Audience"], // audiencia
+                claims: claims, // claims
+                expires: expiration, // data de expiracao
+                signingCredentials: credentials // assinatura digital
                 );
 
             return new UserToken()
@@ -102,7 +100,5 @@ namespace CleanArchMvc.API.Controllers
                 Expiration = expiration
             };
         }
-
-
     }
 }

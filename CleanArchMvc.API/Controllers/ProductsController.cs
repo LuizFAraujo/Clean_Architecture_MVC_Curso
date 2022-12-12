@@ -10,7 +10,7 @@ namespace CleanArchMvc.API.Controllers
     [Route("api/[controller]")]
     [ApiController]
     //[Produces("application/json")]
-    //[Authorize]
+    [Authorize]
     public class ProductsController : ControllerBase
     {
         private readonly IProductService _productService;

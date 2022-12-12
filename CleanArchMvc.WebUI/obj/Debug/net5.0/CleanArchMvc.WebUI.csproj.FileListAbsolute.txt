@@ -370,7 +370,6 @@ D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microso
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -414,3 +413,8 @@ D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microso
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
 D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\_WEB\MACORATTI\CleanArchMvc_Curso\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
