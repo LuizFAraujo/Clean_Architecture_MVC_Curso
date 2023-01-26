@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0GjlZJD6fp5pUi3pGeOqUNB8ntZSLF0s1Nvi17BHr3d15r2G8i27WxjE6MvjWVWqVLUyBckJqPSp8Fxc22Uztg==",
+  "dgSpecHash": "lsTHo+4yGPVKEIiILqO4mtKOkmjMc5ylibAxCU44KEj/7WzgSvOs6p1LL0PuyscrK3hsKfJts4DpESPnPbeAwg==",
   "success": true,
-  "projectFilePath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original) - clone\\CleanArchMvc.API\\CleanArchMvc.API.csproj",
+  "projectFilePath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original) - clone (FINAL)\\CleanArchMvc.API\\CleanArchMvc.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luiz\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Luiz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

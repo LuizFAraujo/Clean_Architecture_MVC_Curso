@@ -10,7 +10,7 @@ namespace CleanArchMvc.Domain.Entities
 {
     public sealed class Category : Entity
     {
-        public string Name { get; private set; }
+        public string Name { get; private set; } = null!;
 
 
         // Relacionamento

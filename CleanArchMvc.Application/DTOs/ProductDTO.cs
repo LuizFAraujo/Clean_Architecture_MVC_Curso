@@ -15,13 +15,13 @@ namespace CleanArchMvc.Application.DTOs
         [MinLength(3)]
         [MaxLength(100)]
         [DisplayName("Name")]
-        public string Name { get; set; }
+        public string Name { get; set; } = null!;
 
         [Required(ErrorMessage = "A descrição é obrigatória!")]
         [MinLength(5)]
         [MaxLength(200)]
         [DisplayName("Description")]
-        public string Description { get; set; }
+        public string Description { get; set; } = null!;
 
         [Required(ErrorMessage = "O preço é obrigatório!")]
         [Column(TypeName = "decimal(18,2)")]
@@ -37,10 +37,10 @@ namespace CleanArchMvc.Application.DTOs
 
         [MaxLength(250)]
         [DisplayName("Product Image")]
-        public string Image { get; set; }
+        public string Image { get; set; } = null!;
 
         [JsonIgnore]
-        public Category Category { get; set; }
+        public Category Category { get; set; } = null!;
 
         [DisplayName("Categories")]
         public int CategoryId { get; set; }

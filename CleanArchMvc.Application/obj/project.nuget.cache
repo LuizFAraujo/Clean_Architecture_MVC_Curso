@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KI9znyLsyZB5vHTwX0JtIHrcSeSttM6qo2UFLNhF6Tz3/7vy8pZ18KsFNKMrxFpDF7XFWz2qERBbLZdHxWgHLw==",
+  "dgSpecHash": "L0jUFRAuhVybE/Tj5r0yx4EBerEXwCU9MsugACcmzx3Li/m7/0bzXusGkL0icVMvoDZbcaVuuWkBgd6BokY72A==",
   "success": true,
-  "projectFilePath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original) - clone\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "projectFilePath": "D:\\_WEB\\MACORATTI\\CleanArchMvc_Curso (meu original) - clone (FINAL)\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luiz\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Luiz\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
